@@ -1,6 +1,10 @@
 <h1 align="center">✨ Привет! Я Ксения ✨</h1>
 
 <p align="center">
+  <i>“Каждый большой путь начинается с маленького pull request-а.”</i>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
 </p>
 
@@ -19,7 +23,3 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
 </div>
-
-<p align="center">
-  <i>“Каждый большой путь начинается с маленького pull request-а.”</i>
-</p>
